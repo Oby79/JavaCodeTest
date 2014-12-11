@@ -1,4 +1,4 @@
-
+﻿
 /** Classe per la gestione degli attuattori che comandano l'apertuira e chiusura di un camino in una cella di essicazione */
 public abstract class Camino
 {
@@ -27,5 +27,8 @@ public abstract class Camino
     
     /** */
     public abstract void chiudiCamino();
+
+
+	/*****/
     
 }
